@@ -9,7 +9,7 @@ Force 4 is a Simple isometric Java game which is being developed while I learn J
 
 I have developed this in Eclipse IDE on OSX 10.8 using Java 1.7
 
-The code should deb generic for any other IDE and all that will be required is to ensure that the **/res** folder is included in the build path so that assets can be located. 
+The code should be generic for any other IDE and all that will be required is to ensure that the **/res** folder is included in the build path so that assets can be located. 
 
 ### Reference
 
