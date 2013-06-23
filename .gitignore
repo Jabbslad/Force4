@@ -1,8 +1,9 @@
 .project
 .classpath
 
-bin/*
 .settings/*
+
+bin/*
 
 *.class
 
@@ -10,3 +11,5 @@ bin/*
 *.jar
 *.war
 *.ear
+
+.DS_Store
